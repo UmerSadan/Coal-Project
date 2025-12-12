@@ -51,9 +51,9 @@ F → Freeze enemies
 
 Up Arrow → Enter hidden room
 
-$ -> Additional coins
+💰 → Additional coins
 
-+ -> Extra health
+❤️ → Extra health
 
 📘 Concepts Demonstrated
 

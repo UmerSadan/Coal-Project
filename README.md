@@ -45,11 +45,9 @@ MASM
 
 Left / Right → Move
 
-Space → Jump
-
 F → Freeze enemies
 
-Up Arrow → Enter hidden room
+Up Arrow → JUMP
 
 💰 → Additional coins
 
